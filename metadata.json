@@ -1,0 +1,6 @@
+{
+  "name": "UBOS — Agency Brief-to-Delivery QA & Revision Engine",
+  "description": "Deterministic and AI-powered agency QA audit engine for brief-to-delivery video script verification, brand compliance, and revision tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
